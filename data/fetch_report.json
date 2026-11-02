@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-26T07:02:07+00:00",
+ "generated_utc": "2026-11-02T07:38:29+00:00",
  "sources": {
   "metoffice_station_heathrow": {
    "url": "https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/heathrowdata.txt",
@@ -205,13 +205,13 @@
     "EGLC0": {
      "name": "London City Airport",
      "years": 20,
-     "rows": 6037,
-     "model_rows_dropped": 30,
+     "rows": 6047,
+     "model_rows_dropped": 31,
      "sources": {
       "isd_lite": 5421,
       "isd_lite metar": 198,
       "metar isd_lite": 8,
-      "metar": 410
+      "metar": 420
      },
      "columns": [
       "year",
@@ -239,17 +239,17 @@
       "200": 25
      },
      "first": "2007-09-26",
-     "last": "2026-10-20"
+     "last": "2026-10-30"
     },
     "EGKB0": {
      "name": "Biggin Hill",
      "years": 2,
-     "rows": 484,
-     "model_rows_dropped": 1616,
+     "rows": 492,
+     "model_rows_dropped": 1619,
      "sources": {
       "isd_lite": 81,
       "isd_lite metar": 15,
-      "metar": 388
+      "metar": 396
      },
      "columns": [
       "year",
@@ -277,7 +277,7 @@
       "200": 6
      },
      "first": "2025-05-20",
-     "last": "2026-10-20"
+     "last": "2026-10-30"
     }
    }
   },
