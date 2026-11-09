@@ -10614,6 +10614,16 @@ station_id,station,date,tmax_c,tmin_c,tmax_source
 03672,Northolt,2026-10-21,11.0,5.0,metar
 03672,Northolt,2026-10-22,14.0,8.0,metar
 03672,Northolt,2026-10-23,13.0,8.0,metar
+03672,Northolt,2026-10-24,16.0,7.0,metar
+03672,Northolt,2026-10-25,14.0,8.0,metar
+03672,Northolt,2026-10-26,17.0,8.0,metar
+03672,Northolt,2026-10-27,16.0,8.0,metar
+03672,Northolt,2026-10-28,16.0,6.0,metar
+03672,Northolt,2026-10-29,16.0,7.0,metar
+03672,Northolt,2026-10-30,17.0,7.0,metar
+03672,Northolt,2026-10-31,16.0,6.0,metar
+03672,Northolt,2026-11-01,10.0,6.0,metar
+03672,Northolt,2026-11-02,12.0,8.0,metar
 03772,London Heathrow,1979-01-01,-3.0,-7.0,ghcnd
 03772,London Heathrow,1979-01-02,2.0,-6.0,ghcnd
 03772,London Heathrow,1979-01-03,2.0,-7.0,isd_lite
@@ -27765,7 +27775,17 @@ station_id,station,date,tmax_c,tmin_c,tmax_source
 03772,London Heathrow,2026-10-20,12.9,9.9,dwd_poi
 03772,London Heathrow,2026-10-21,11.3,6.3,dwd_poi
 03772,London Heathrow,2026-10-22,15.0,8.4,dwd_poi
-03772,London Heathrow,2026-10-23,12.9,8.0,dwd_poi metar
+03772,London Heathrow,2026-10-23,12.9,8.1,dwd_poi
+03772,London Heathrow,2026-10-24,16.0,6.5,dwd_poi
+03772,London Heathrow,2026-10-25,13.7,8.4,dwd_poi
+03772,London Heathrow,2026-10-26,16.6,8.3,dwd_poi
+03772,London Heathrow,2026-10-27,16.9,9.0,dwd_poi
+03772,London Heathrow,2026-10-28,16.4,7.2,dwd_poi
+03772,London Heathrow,2026-10-29,16.2,10.7,dwd_poi
+03772,London Heathrow,2026-10-30,16.9,9.0,dwd_poi
+03772,London Heathrow,2026-10-31,15.5,8.4,dwd_poi
+03772,London Heathrow,2026-11-01,10.4,7.6,dwd_poi
+03772,London Heathrow,2026-11-02,11.8,8.1,dwd_poi
 03781,Kenley,2018-01-28,11.9,8.8,dwd_poi
 03781,Kenley,2018-01-29,10.8,2.5,dwd_poi
 03781,Kenley,2018-01-30,8.5,-1.2,dwd_poi
@@ -30781,6 +30801,17 @@ station_id,station,date,tmax_c,tmin_c,tmax_source
 03781,Kenley,2026-10-20,11.4,9.1,dwd_poi
 03781,Kenley,2026-10-21,11.1,6.9,dwd_poi
 03781,Kenley,2026-10-22,13.7,6.9,dwd_poi
+03781,Kenley,2026-10-23,12.4,6.6,dwd_poi
+03781,Kenley,2026-10-24,14.9,5.7,dwd_poi
+03781,Kenley,2026-10-25,12.3,7.0,dwd_poi
+03781,Kenley,2026-10-26,15.6,7.4,dwd_poi
+03781,Kenley,2026-10-27,15.5,7.8,dwd_poi
+03781,Kenley,2026-10-28,15.3,6.6,dwd_poi
+03781,Kenley,2026-10-29,14.4,10.2,dwd_poi
+03781,Kenley,2026-10-30,14.6,8.4,dwd_poi
+03781,Kenley,2026-10-31,13.7,6.1,dwd_poi
+03781,Kenley,2026-11-01,9.6,5.5,dwd_poi
+03781,Kenley,2026-11-02,10.3,6.0,dwd_poi
 EGKB0,Biggin Hill,2025-05-20,20.0,6.0,isd_lite
 EGKB0,Biggin Hill,2025-05-21,17.0,9.0,isd_lite
 EGKB0,Biggin Hill,2025-05-22,14.0,5.0,isd_lite

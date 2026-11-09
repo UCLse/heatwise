@@ -2,7 +2,7 @@ Areal values from HadUK-Grid 1km gridded climate data from land surface network
 Source: Met Office National Climate Information Centre
 Monthly, seasonal and annual mean of daily maximum air temperature for England SE and Central S
 Areal series, starting in 1884
-Last updated 01-Oct-2026 11:55
+Last updated 01-Nov-2026 10:56
 year    jan    feb    mar    apr    may    jun    jul    aug    sep    oct    nov    dec     win     spr     sum     aut     ann
 1884    8.7    8.3   10.4   11.2   16.9   19.0   21.0   23.3   19.2   13.6    8.7    7.4     ---   12.85   21.12   13.83   14.00
 1885    5.0    9.1    8.8   12.8   13.8   19.5   22.4   19.7   17.1   11.3    8.8    6.3    7.08   11.79   20.53   12.39   12.89
@@ -146,4 +146,4 @@ year    jan    feb    mar    apr    may    jun    jul    aug    sep    oct    no
 2023    8.4   10.0   10.4   13.4   17.8   23.5   21.2   21.6   22.7   17.2   11.2   10.3    8.52   13.89   22.09   17.02   15.67
 2024    7.8   11.1   12.0   14.0   18.2   20.2   21.9   22.8   18.9   15.7   10.8    9.4    9.72   14.74   21.65   15.15   15.25
 2025    7.0    8.1   12.9   16.8   19.3   22.9   24.3   23.4   19.0   15.1   12.0    9.8    8.16   16.35   23.58   15.37   15.94
-2026    8.0   10.3   12.6   16.2   20.1   23.0   27.4   26.0   21.9                         9.33   16.32   25.46                
+2026    8.0   10.3   12.6   16.2   20.1   23.0   27.4   26.0   21.9   16.7                  9.33   16.32   25.46                
